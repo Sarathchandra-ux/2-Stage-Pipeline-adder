@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "stage_2_pipeline_adder_behav" "xil_defaultlib.stage_2_pipeline_adder" "xil_defaultlib.glbl" -log "elaborate.log" 

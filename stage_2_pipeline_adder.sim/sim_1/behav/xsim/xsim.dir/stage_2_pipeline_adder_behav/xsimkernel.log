@@ -1,0 +1,7 @@
+Running: xsim.dir/stage_2_pipeline_adder_behav/xsimk.exe -simmode gui -wdb stage_2_pipeline_adder_behav.wdb -simrunnum 0 -socket 55893
+Design successfully loaded
+Design Loading Memory Usage: 10804 KB (Peak: 10804 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 11676 KB (Peak: 11676 KB)
+Simulation CPU Usage: 155 ms
